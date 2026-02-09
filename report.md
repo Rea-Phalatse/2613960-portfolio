@@ -1,0 +1,1 @@
+I learned the differences between Git and Github. Git was first developed as a means to share code between different users and devices. Github is a platform that hosts Git.
